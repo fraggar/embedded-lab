@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(**/*.c)",
+      "Edit(**/*.h)",
+      "Edit(**/*.cpp)",
+      "Edit(**/*.hpp)",
+      "Edit(**/*.S)",
+      "Edit(**/CMakeLists.txt)",
+      "Edit(**/*.cmake)",
+      "Edit(**/prj.conf)",
+      "Edit(**/*.conf)",
+      "Edit(**/*.overlay)",
+      "Edit(**/*.dts)",
+      "Edit(**/*.dtsi)",
+      "Edit(**/Kconfig*)",
+      "Edit(**/west.yml)",
+      "Edit(thesis/**)"
+    ]
+  }
+}
